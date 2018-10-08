@@ -1,3 +1,3 @@
-# Portfolio Deliverable - Business Architecture -
+# DISP Portfolio
 
-The directory contains a file of Zachaman Framework of Information Systems Architecture and a brief description of the enterprise and the role of the information systems.
+This repository contains the components of the DISP Portfolio.
